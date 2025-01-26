@@ -1,0 +1,15 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/scripts/kingdom_managementt.rpy", line 126: 'action' is not a keyword argument or valid child of the screen statement.
+    action [
+          ^
+            Hide("open_info_panel"),  
+            Hide("open_kingdom_management"),  
+            Hide("complete_the_move"),
+            Show("trade")  
+        ]
+
+Ren'Py Version: Ren'Py 8.1.2.23090503
+Fri Dec 29 03:38:48 2023
